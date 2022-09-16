@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
 <h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Thursday September 15, 2022 at 4PM MST for our new batch. 
-	Landmark Technology Tesla web application project2. 
+	Landmark Technology is an awesome place to learn DevOps, commit the time and you will be making over $600,000 yearly. 
 	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
 <hr>
